@@ -69,3 +69,4 @@ print("Hipotenüs: ",c)
 a:3
 b:4
 Hipotenüs:  5.0
+
