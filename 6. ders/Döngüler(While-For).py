@@ -105,7 +105,7 @@
 # for i in liste:
 #      print(i)
 
-sözlük ={"ad":"enes","soyad":"gümüş"}
+# sözlük ={"ad":"enes","soyad":"gümüş"}
 #print(sözlük.keys())
 #print(sözlük.items())
 #print(sözlük.values())
@@ -121,3 +121,10 @@ sözlük ={"ad":"enes","soyad":"gümüş"}
 
 # print(sözlük.get("ad"))
 
+# while True:
+#     isim = input("isminizi(çıkış yapmak için q ya basın)girin: ")
+#     if isim == "q":
+#         print("çıkış yapılıyor...")
+#         break
+#     print(isim)
+    
